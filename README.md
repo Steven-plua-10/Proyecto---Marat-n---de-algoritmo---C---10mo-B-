@@ -1,1 +1,1 @@
-# Proyecto---Marat-n---de-algoritmo---C---10mo-B-
+# INFORMATICA-ejercicios-c-
